@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288217642841",
+    "project_id": "my-memory-6383e",
+    "storage_bucket": "my-memory-6383e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288217642841:android:cfb27bfa5e48e3ffb43e48",
+        "android_client_info": {
+          "package_name": "com.chloechen.mymemeory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCkWQAeR5h7AJvi7ggDCaCAKCpCctKrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

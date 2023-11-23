@@ -1,0 +1,105 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyMemeory" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+    </style>
+
+    <style name="Theme.MyMemeory" parent="Base.Theme.MyMemeory" />
+
+    <color name="my_light_primary">#86C5E2</color>
+</resources>
+
+
+    <!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="Base.Theme.MyMemeory" parent="Theme.MaterialComponents.DayNight.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+
+<!--        &lt;!&ndash; Adjusting the color of the action bar &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/color_progress_full</item>-->
+
+<!--        &lt;!&ndash; Applying custom toolbar style &ndash;&gt;-->
+<!--        <item name="toolbarStyle">@style/MyToolbarStyle</item>-->
+<!--    </style>-->
+
+<!--    <style name="Theme.MyMemeory" parent="Base.Theme.MyMemeory" />-->
+
+<!--    &lt;!&ndash; Define a new color for the action bar (change the hex value as needed) &ndash;&gt;-->
+<!--    <color name="my_light_primary">#FF5733</color> &lt;!&ndash; Example color &ndash;&gt;-->
+
+<!--    &lt;!&ndash; Toolbar style with custom text appearance &ndash;&gt;-->
+<!--    <style name="MyToolbarStyle" parent="Widget.MaterialComponents.Toolbar.Primary">-->
+<!--        <item name="titleTextAppearance">@style/MyToolbarTitleText</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Style for toolbar title text &ndash;&gt;-->
+<!--    <style name="MyToolbarTitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">-->
+<!--        <item name="android:textSize">18sp</item> &lt;!&ndash; Adjust text size here &ndash;&gt;-->
+<!--        &lt;!&ndash; Add more text attributes as needed &ndash;&gt;-->
+<!--    </style>-->
+<!--</resources>-->
+
+
+
+<!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="Base.Theme.MyMemeory" parent="Theme.MaterialComponents.DayNight.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your light theme here. &ndash;&gt;-->
+<!--         <item name="colorPrimary">@color/my_light_primary</item>-->
+
+<!--    </style>-->
+
+<!--&lt;!&ndash;    <style name="MyActionBarTextStyle">&ndash;&gt;-->
+<!--&lt;!&ndash;         &lt;!&ndash; Set your desired text size &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;        &lt;!&ndash; You can also set other text attributes like color, style, etc. &ndash;&gt;&ndash;&gt;-->
+
+<!--&lt;!&ndash;    </style>&ndash;&gt;-->
+
+<!--    <style name="Theme.MyMemeory" parent="Base.Theme.MyMemeory" />-->
+
+<!--    <color name="my_light_primary">#86C5E2</color>-->
+<!--</resources>-->
+
+<!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--    <style name="Theme.MyMemory" parent="Theme.MaterialComponents.DayNight.DarkActionBar">-->
+<!--        &lt;!&ndash; Primary brand color. &ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/green_dark</item>-->
+<!--        <item name="colorPrimaryVariant">@color/green_darkest</item>-->
+<!--        <item name="colorOnPrimary">@color/white</item>-->
+<!--        &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+<!--        <item name="colorSecondary">@color/green_blue</item>-->
+<!--        <item name="colorSecondaryVariant">@color/green_blue</item>-->
+<!--        <item name="colorOnSecondary">@color/black</item>-->
+<!--        &lt;!&ndash; Status bar color. &ndash;&gt;-->
+<!--        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--    </style>-->
+<!--</resources>-->
+
+
+
+
+
+<!--<resources xmlns:tools="http://schemas.android.com/tools">-->
+<!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+<!--<style name="Theme.MyMemory" parent="Theme.MaterialComponents.DayNight.DarkActionBar">-->
+<!--    &lt;!&ndash; Primary brand color. &ndash;&gt;-->
+<!--    <item name="colorPrimary">@color/green_dark</item>-->
+<!--    <item name="colorPrimaryVariant">@color/green_darkest</item>-->
+<!--    <item name="colorOnPrimary">@color/white</item>-->
+<!--    &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+<!--    <item name="colorSecondary">@color/green_blue</item>-->
+<!--    <item name="colorSecondaryVariant">@color/green_blue</item>-->
+<!--    <item name="colorOnSecondary">@color/black</item>-->
+<!--    &lt;!&ndash; Status bar color. &ndash;&gt;-->
+<!--    <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+<!--    &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--</style>-->
+
+<!--    <color name="green_dark">#4CAF50</color>-->
+<!--    <color name="green_darkest">#2A6D2C</color>-->
+<!--    <color name="green_blue">#00BCD4</color>-->
+<!--</resources>-->
